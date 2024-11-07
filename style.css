@@ -1,0 +1,18 @@
+/* Class ="" => .   */
+/* id = ""  =>  #   */
+
+.headingContainer {
+    border: solid blue;
+    background-color: aliceblue;
+}
+.mainImage{
+    width: 20%;
+}
+​
+ul{
+    border:solid blue;
+}
+​
+ol{
+    border:solid red;
+}
