@@ -2,15 +2,29 @@
 /* id = ""  =>  #   */
 
 .headingContainer {
-    border: solid blue;
+    border: none blue;
     background-color: aliceblue;
+    height: 0px;
+    display: block;
+    justify-self: center;
+    text-align: center;
+    line-height: 1em;
+}
+.imageContainer{
+    display: flex;
+    justify-content: end;
 }
 .mainImage{
-    width: 20%;
+    height: auto;
 }
-​
+
+
+.heading {
+    text-decoration: underline;
+}
+
 ul{
-    border:solid blue;
+    border:none blue;
 }
 ​
 ol{
